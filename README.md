@@ -7,4 +7,4 @@ We will use the IMDB Movie Reviews dataset which contains a collection of 50,000
 
 The objective of this project is to use logistic regression to predict the sentiment of a given movie review by training a model on the training set and evaluating its performance on the test set.
 
-This is part of Articifial Inteligence and Ehics Modeule from MAsters in Social Data Analytics at UCD. 
+This is part of Articifial Inteligence and Ethics Module from MAsters in Social Data Analytics at University College Dublin
